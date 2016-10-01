@@ -1,4 +1,4 @@
-# Passport-Telegram
+# Passport-Telegram [![Build Status](https://travis-ci.org/TelegramPassport/passport-js.svg?branch=master)](https://travis-ci.org/TelegramPassport/passport-js)
 [Passport](http://passportjs.org/) strategy for authenticating with [Telegram Messenger](https://telegram.org) using the unofficial OAuth 2.0 API.
 
 > Note: this project is unofficial and is not affiliated with Telegram.
