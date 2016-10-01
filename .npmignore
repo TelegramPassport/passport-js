@@ -3,6 +3,6 @@
 Makefile
 GNUmakefile
 docs/
-examples/
+example/
 support/
 test/
