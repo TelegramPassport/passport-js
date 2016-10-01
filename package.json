@@ -1,0 +1,42 @@
+{
+  "name": "passport-telegram",
+  "version": "1.0.0",
+  "description": "Telegram Unofficial OAuth2 authentication strategy for Passport.",
+  "author": {
+    "name": "Codefuhrer",
+    "email": "codefuhrer@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TelegramPassport/passport-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TelegramPassport/passport-js/issues"
+  },
+  "main": "./lib/passport-telegram",
+  "dependencies": {
+    "pkginfo": "0.3.x",
+    "passport-oauth": "1.0.x"
+  },
+  "devDependencies": {
+    "vows": "~0.7.0"
+  },
+  "scripts": {
+    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT" 
+  }],
+  "keywords": [
+    "passport",
+    "telegram",
+    "auth",
+    "authn",
+    "authentication",
+    "oauth"
+  ]
+}

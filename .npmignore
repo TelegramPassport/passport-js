@@ -1,0 +1,8 @@
+*.md
+.git*
+Makefile
+GNUmakefile
+docs/
+examples/
+support/
+test/
